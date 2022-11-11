@@ -1,8 +1,3 @@
-Ainda mais um...
-
-
-
-
-
-
+"Este exercício está englobado no âmbito de uma ficha prática de git"
+Este commit tem o objectivo de actualizar o ficheiro 3
 
